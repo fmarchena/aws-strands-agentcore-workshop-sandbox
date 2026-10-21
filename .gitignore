@@ -1,0 +1,17 @@
+# Local credentials and environment
+.env
+.env.*
+!.env.example
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Logs, archives and editor state
+*.log
+*.zip
+.DS_Store
+.vscode/
+.idea/
